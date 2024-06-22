@@ -1,4 +1,3 @@
-@@ -0,0 +1,19 @@
 module top_module( output one );
 
 // Insert your code here
